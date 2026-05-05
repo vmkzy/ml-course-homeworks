@@ -1,1 +1,1 @@
-Домашнее задание в ['этом ноутбуке'](decision-tree-empty-cells.ipynb)
+Домашнее задание в этом [ноутбуке](decision-tree-empty-cells.ipynb)
