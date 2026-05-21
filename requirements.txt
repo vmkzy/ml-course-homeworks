@@ -1,6 +1,12 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+catboost
 jupyter
+matplotlib
+nbformat
+numpy
+optuna
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+shap
